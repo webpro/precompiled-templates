@@ -5,7 +5,7 @@
     "devDependencies": {
         "requirejs": "~2.1",
         "requirejs-text": "git://github.com/webpro/text#2.0.6-custom",
-        "requirejs-handlebars": "git://github.com/webpro/requirejs-handlebars",
+        "requirejs-handlebars": "0.0.1",
         "requirejs-hogan": "0.0.1",
         "requirejs-dust": "0.0.1",
         "handlebars": "1.0.0-rc.4",
